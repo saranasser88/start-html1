@@ -422,7 +422,7 @@ body {
     width: 100%;
     height: 100vh;
     background: url("../image/lum3n--RBuQ2PK_L8-unsplash.jpg") top right;
-    background-size:cover;
+    background-size:contain;
   }
   
   #hero .container {
